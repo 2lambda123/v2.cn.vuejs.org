@@ -1,0 +1,176 @@
+repo_name: 2lambda123/v2.cn.vuejs.org
+report_id: 2aa045ec8c45ea220771cbc4ffc3944a
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-09T06:59:09+00:00'
+requested_by: Jinjiang
+provider: github
+branch: master
+detected_tools_count: 13
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/2lambda123/v2.cn.vuejs.org
+  detection_source: Repo Metadata
+- name: EJS
+  description: An Embedded JavaScript templating Language
+  website_url: https://ejs.co/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/2lambda123/v2.cn.vuejs.org/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Evan You
+  last_updated_on: 2014-01-04 06:52:46.000000000 Z
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/2lambda123/v2.cn.vuejs.org
+  detection_source: Repo Metadata
+- name: Vue.js
+  description: A progressive framework for building user interfaces
+  website_url: http://vuejs.org/
+  version: 2.6.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript MVC Frameworks
+  image_url: https://img.stackshare.io/service/3837/paeckCWC.png
+  detection_source_url: https://github.com/2lambda123/v2.cn.vuejs.org/blob/master/src/v2/examples/vue-20-single-file-components/package.json
+  detection_source: src/v2/examples/vue-20-single-file-components/package.json
+  last_updated_by: Jinjiang
+  last_updated_on: 2020-04-08 15:05:31.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/2lambda123/v2.cn.vuejs.org
+  detection_source: Repo Metadata
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/2lambda123/v2.cn.vuejs.org/blob/master/src/v2/examples/vue-20-single-file-components/package.json
+  detection_source: src/v2/examples/vue-20-single-file-components/package.json
+  last_updated_by: Jinjiang
+  last_updated_on: 2020-04-08 15:05:31.000000000 Z
+- name: Vercel
+  description: It makes serverless application deployment easy
+  website_url: https://vercel.com/
+  open_source: false
+  hosted_saas: true
+  category: Application Utilities
+  sub_category: Static Web Hosting
+  image_url: https://img.stackshare.io/service/7618/bHjpwZem_400x400.png
+  detection_source_url: https://github.com/2lambda123/v2.cn.vuejs.org/blob/master/vercel.json
+  detection_source: vercel.json
+  last_updated_by: Evan You
+  last_updated_on: 2022-08-24 10:52:38.000000000 Z
+- name: Hexo
+  description: A fast, simple &amp; powerful blog framework, powered by Node.js
+  website_url: http://hexo.io/
+  version: 6.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Static Site Generators
+  image_url: https://img.stackshare.io/service/1154/mQZOTo9f.png
+  detection_source_url: https://github.com/2lambda123/v2.cn.vuejs.org/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Evan You
+  last_updated_on: 2014-01-04 06:52:46.000000000 Z
+- name: axios
+  description: Promise based HTTP client for the browser and node.js
+  website_url: https://github.com/mzabriskie/axios
+  version: 0.27.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/2lambda123/v2.cn.vuejs.org/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Jinjiang
+  last_updated_on: 2022-07-12 18:25:11.000000000 Z
+- name: hoek
+  description: General purpose node utilities
+  package_url: https://www.npmjs.com/hoek
+  version: 6.1.2
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16516/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
+  detection_source_url: https://github.com/2lambda123/v2.cn.vuejs.org/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: 勾三股四
+  last_updated_on: 2019-02-13 01:07:39.000000000 Z
+- name: js-yaml
+  description: YAML 1.2 parser and serializer
+  package_url: https://www.npmjs.com/js-yaml
+  version: 4.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15997/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
+  detection_source_url: https://github.com/2lambda123/v2.cn.vuejs.org/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Jinjiang
+  last_updated_on: 2022-07-12 18:25:11.000000000 Z
+- name: serve
+  description: Static file serving and directory listing
+  package_url: https://www.npmjs.com/serve
+  version: 11.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16484/default_73c88a18b684e01cbdbf945631a40a44aff5a777.png
+  detection_source_url: https://github.com/2lambda123/v2.cn.vuejs.org/blob/master/src/v2/examples/vue-10-two-way-currency-filter-v2/package.json
+  detection_source: src/v2/examples/vue-10-two-way-currency-filter-v2/package.json
+  last_updated_by: Jinjiang
+  last_updated_on: 2020-04-08 15:05:31.000000000 Z
+- name: vue
+  description: Vue
+  package_url: https://www.npmjs.com/vue
+  version: 2.6.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15844/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/2lambda123/v2.cn.vuejs.org/blob/master/src/v2/examples/vue-20-single-file-components/package.json
+  detection_source: src/v2/examples/vue-20-single-file-components/package.json
+  last_updated_by: Jinjiang
+  last_updated_on: 2020-04-08 15:05:31.000000000 Z
