@@ -3,12 +3,12 @@
 ## Tech Stack
 2lambda123/v2.cn.vuejs.org is built on the following main stack:
 
-- [Hexo](http://hexo.io/) – Static Site Generators
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [EJS](https://ejs.co/) – Templating Languages & Extensions
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [Vue.js](http://vuejs.org/) – Javascript UI Libraries
-- [axios](https://github.com/mzabriskie/axios) – Javascript Utilities & Libraries
 - [Vercel](https://vercel.com/) – Static Web Hosting
+- [Hexo](http://hexo.io/) – Static Site Generators
+- [axios](https://github.com/mzabriskie/axios) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
 
@@ -18,12 +18,12 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 2lambda123/v2.cn.vuejs.org is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/1154/mQZOTo9f.png' alt='Hexo'/> [Hexo](http://hexo.io/) – Static Site Generators
-- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='EJS'/> [EJS](https://ejs.co/) – Templating Languages & Extensions
+- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/3837/paeckCWC.png' alt='Vue.js'/> [Vue.js](http://vuejs.org/) – Javascript UI Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='axios'/> [axios](https://github.com/mzabriskie/axios) – Javascript Utilities & Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/7618/bHjpwZem_400x400.png' alt='Vercel'/> [Vercel](https://vercel.com/) – Static Web Hosting
+- <img width='25' height='25' src='https://img.stackshare.io/service/1154/mQZOTo9f.png' alt='Hexo'/> [Hexo](http://hexo.io/) – Static Site Generators
+- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='axios'/> [axios](https://github.com/mzabriskie/axios) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
 
@@ -34,7 +34,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [2lambda123/v2.cn.vuejs.org](https://github.com/2lambda123/v2.cn.vuejs.org)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|13<br/>Tools used|01/09/24 <br/>Report generated|
+|13<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -142,7 +142,7 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[hoek](https://www.npmjs.com/hoek)|v6.1.2|02/13/19|勾三股四 |BSD-3-Clause|N/A|
+|[hoek](https://www.npmjs.com/hoek)|v6.1.2|02/13/19|勾三股四 |BSD-3-Clause|[CVE-2020-36604](https://github.com/advisories/GHSA-c429-5p7v-vgjp) (High)|
 |[js-yaml](https://www.npmjs.com/js-yaml)|v4.1.0|07/12/22|Jinjiang |MIT|N/A|
 |[serve](https://www.npmjs.com/serve)|v11.2.0|04/08/20|Jinjiang |MIT|N/A|
 |[vue](https://www.npmjs.com/vue)|v2.6.11|04/08/20|Jinjiang |MIT|N/A|
